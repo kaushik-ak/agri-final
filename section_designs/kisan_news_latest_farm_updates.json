@@ -1,0 +1,17 @@
+{
+  "description": "A masonry-style news grid. Each article features a high-quality cover photo, a date badge, and a 'Read Time' indicator. Headlines are bold and use H3 styling. No animations on scroll. Features a simple ui/pagination.tsx at the bottom. Categories like 'Technology', 'Weather', and 'Market' are filterable via ui/tabs.tsx.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": true,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/card.tsx",
+    "ui/badge.tsx",
+    "ui/tabs.tsx",
+    "ui/pagination.tsx"
+  ]
+}

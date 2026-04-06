@@ -1,0 +1,16 @@
+{
+  "description": "A clean blog-style list using a vertical layout. Each scheme is a card with a 'Status Badge' (e.g., 'Open until Oct 30'). Left: Scheme Title and Brief. Right: A prominent 'Apply Now' button using ui/button.tsx. The section uses a soft beige background to separate it from the white sections above.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": true,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/card.tsx",
+    "ui/button.tsx",
+    "ui/badge.tsx"
+  ]
+}

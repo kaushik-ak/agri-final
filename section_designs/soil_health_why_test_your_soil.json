@@ -1,0 +1,15 @@
+{
+  "description": "A benefit-driven section using a split layout. Left: A 3D illustration of a vibrant healthy plant vs. a wilting one. Right: A list of 3 key benefits using large 'Checkmark' icons. Each benefit is a ui/card.tsx with minimal text. Background features a subtle organic 'dirt' texture overlay.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/card.tsx",
+    "ui/aspect-ratio.tsx"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "description": "A sleek, 'Stock Ticker' style section. Features a horizontal scrolling list of crop prices (e.g., Wheat - \u20b92,125 \u25b2 2%). Below the ticker, a detailed ui/table.tsx showing top 5 local Mandis. Use bright Green for price increases and Red for decreases. High-contrast typography is used to ensure price data is legible even in bright sunlight.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/table.tsx",
+    "ui/badge.tsx",
+    "ui/scroll-area.tsx"
+  ]
+}

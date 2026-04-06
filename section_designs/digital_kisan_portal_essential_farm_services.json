@@ -1,0 +1,15 @@
+{
+  "description": "A 3-column grid (1-column on mobile) of 'Action Cards'. Each card features a giant 64x64 icon in the center-top. Colors: Soil Health (Brown), Weather (Blue), Mandi (Green). Cards use ui/card.tsx with a 'hover-lift' effect. Text is minimal: 1 Bold Title and 1 Short Subtitle. Entire card is clickable for easy thumb access on mobile devices.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/card.tsx",
+    "ui/aspect-ratio.tsx"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "description": "A carousel-based testimonial section using ui/carousel.tsx. Each slide features a large video thumbnail with a 'Play' button overlay. Next to the video, a quote in large italic serif font. Background is a warm 'Earth' gradient. User avatars are displayed in ui/avatar.tsx with regional tags (e.g., 'Farmer from Punjab').",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/carousel.tsx",
+    "ui/avatar.tsx",
+    "ui/card.tsx"
+  ]
+}

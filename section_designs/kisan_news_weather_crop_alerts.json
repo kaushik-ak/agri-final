@@ -1,0 +1,16 @@
+{
+  "description": "A high-urgency hero section. Background is a vibrant 'Alert Orange' gradient. Features a massive weather icon (e.g., Storm cloud) and a bold headline: 'HEAVY RAIN ALERT: Next 48 Hours'. Below, a specific advisory: 'Delay harvesting in Northern Punjab'. Includes a 'Share via WhatsApp' button for community awareness.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/alert.tsx",
+    "ui/button.tsx",
+    "ui/badge.tsx"
+  ]
+}

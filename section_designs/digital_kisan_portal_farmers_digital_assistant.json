@@ -1,0 +1,16 @@
+{
+  "description": "Hero section with a split-screen aesthetic. Left side features a massive, friendly H1: 'Namaste, how can I help you today?' Below it, a high-contrast search bar with a pulsating Microphone icon for voice commands. Right side features a 3D-style floating collage of seasonal crops (Wheat, Rice, Cotton). The background has a subtle topographic map pattern. Primary CTA: 'Voice Search' (Large green button).",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/button.tsx",
+    "ui/input.tsx",
+    "ui/badge.tsx"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "description": "A horizontal 4-step process guide. Each step is a circle with a number and a custom icon (Dig, Collect, Pack, Submit). Connecting lines between circles create a 'Path' visual. On mobile, this stacks vertically. Each step has a 'Learn More' tooltip using ui/tooltip.tsx.",
+  "wordpress_providers": {
+    "contains_navmenu": false,
+    "contains_blog_posts": false,
+    "contains_form": false,
+    "contains_ecommerce_products": false,
+    "contains_ecommerce_categories": false,
+    "contains_ecommerce_tags": false
+  },
+  "components": [
+    "ui/tooltip.tsx",
+    "ui/separator.tsx"
+  ]
+}
