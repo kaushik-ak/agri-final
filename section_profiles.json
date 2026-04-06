@@ -1,0 +1,294 @@
+{
+  "src/pages/DigitalKisanPortal/sections/ThePeoplesPortal.tsx": {
+    "hash": "63efdd2d1c10ba12ce3165e714238571",
+    "profile": {
+      "component_name": "ThePeoplesPortal",
+      "section_title": "The Peoples Portal",
+      "main_heading_text": "Namaste, how can I help you today?",
+      "section_type": "hero",
+      "blocks": [
+        "carousel",
+        "search_form"
+      ],
+      "media": [
+        "hero_image"
+      ],
+      "buttons": [
+        "Voice Search"
+      ],
+      "summary": "Full-width hero with rotating landscape images, a centered search input for voice queries, and popular topic badges.",
+      "mode": "light"
+    }
+  },
+  "src/pages/DigitalKisanPortal/sections/ServiceCategories.tsx": {
+    "hash": "fb8af2509b6b49c4b13ab3ecf76a276d",
+    "profile": {
+      "component_name": "ServiceCategories",
+      "section_title": "Service Categories",
+      "main_heading_text": "Essential Farmer Services",
+      "section_type": "services",
+      "blocks": [
+        "service_card"
+      ],
+      "media": [
+        "icons"
+      ],
+      "buttons": [
+        "Access Service"
+      ],
+      "summary": "Grid of service cards offering AI-powered soil health, weather alerts, expert support, market prices, news, and portal access.",
+      "mode": "light"
+    }
+  },
+  "src/pages/DigitalKisanPortal/sections/RealTimeMarketPulse.tsx": {
+    "hash": "ed8dc36c9213c40a7f0b1e0aa8ed7633",
+    "profile": {
+      "component_name": "RealTimeMarketPulse",
+      "section_title": "Real Time Market Pulse",
+      "main_heading_text": "",
+      "section_type": "stats",
+      "blocks": [
+        "chart"
+      ],
+      "media": [
+        "icons"
+      ],
+      "buttons": [],
+      "summary": "Real\u2011time market pulse displaying temperature, active mand\u0131 badge, and commodity cards with mini line charts and trend indicators.",
+      "mode": "light"
+    }
+  },
+  "src/pages/DigitalKisanPortal/sections/GovernmentSchemesSubsidies.tsx": {
+    "hash": "9493076c9a0d8f849eeb320972612bd1",
+    "profile": {
+      "component_name": "GovernmentSchemesSubsidies",
+      "section_title": "Government Schemes Subsidies",
+      "main_heading_text": "Government Schemes & Subsidies",
+      "section_type": "blog_posts",
+      "blocks": [
+        "post_card"
+      ],
+      "media": [
+        "icons"
+      ],
+      "buttons": [
+        "Apply Now",
+        "Previous",
+        "Next"
+      ],
+      "summary": "Cards displaying government schemes with apply buttons and pagination controls.",
+      "mode": "light"
+    }
+  },
+  "src/pages/DigitalKisanPortal/sections/HarvestSuccessStories.tsx": {
+    "hash": "bedd744fb84feb1a4e4345499aab6b44",
+    "profile": {
+      "component_name": "HarvestSuccessStories",
+      "section_title": "Harvest Success Stories",
+      "main_heading_text": "Voice of Success",
+      "section_type": "testimonials",
+      "blocks": [
+        "carousel"
+      ],
+      "media": [
+        "image"
+      ],
+      "buttons": [],
+      "summary": "Carousel of farmer testimonial cards highlighting success statistics.",
+      "mode": "dark"
+    }
+  },
+  "src/pages/DigitalKisanPortal/sections/VisitOrReachOut.tsx": {
+    "hash": "1b89edec21d70e26c474c86e22f62922",
+    "profile": {
+      "component_name": "VisitOrReachOut",
+      "section_title": "Visit Or Reach Out",
+      "main_heading_text": "Expert Help Desk",
+      "section_type": "contact",
+      "blocks": [
+        "regional_center_info",
+        "helpline_info"
+      ],
+      "media": [
+        "hero_image",
+        "icons"
+      ],
+      "buttons": [
+        "Chat on WhatsApp"
+      ],
+      "summary": "Two\u2011column layout with a map image, contact info cards, and a WhatsApp chat button.",
+      "mode": "light"
+    }
+  },
+  "src/pages/SoilHealth/sections/RootedInSustainability.tsx": {
+    "hash": "df366656ccf2f8d482c169923328f141",
+    "profile": {
+      "component_name": "RootedInSustainability",
+      "section_title": "Rooted In Sustainability",
+      "main_heading_text": "Why Test Your Soil?",
+      "section_type": "features",
+      "blocks": [
+        "card"
+      ],
+      "media": [
+        "icons"
+      ],
+      "buttons": [],
+      "summary": "Three feature cards explaining the benefits of soil testing for farmers.",
+      "mode": "light"
+    }
+  },
+  "src/pages/SoilHealth/sections/ThePathFromSampleToScience.tsx": {
+    "hash": "437b152e4017f62741bcbf456fa3f1ea",
+    "profile": {
+      "component_name": "ThePathFromSampleToScience",
+      "section_title": "The Path From Sample To Science",
+      "main_heading_text": "Simplified Soil Testing Process",
+      "section_type": "features",
+      "blocks": [
+        "card",
+        "card",
+        "card",
+        "card"
+      ],
+      "media": [
+        "icons"
+      ],
+      "buttons": [],
+      "summary": "Four-step card layout illustrating the soil testing workflow with icons and hover\u2011revealed descriptions.",
+      "mode": "light"
+    }
+  },
+  "src/pages/SoilHealth/sections/OurSouthLondonOffice.tsx": {
+    "hash": "95e13c22e75ba0c8074f526f8eee1193",
+    "profile": {
+      "component_name": "OurSouthLondonOffice",
+      "section_title": "Our South London Office",
+      "main_heading_text": "Soil Testing Center",
+      "section_type": "contact",
+      "blocks": [
+        "contact_card"
+      ],
+      "media": [
+        "map_embed",
+        "icons"
+      ],
+      "buttons": [
+        "Navigate to Lab"
+      ],
+      "summary": "Map background with a contact card displaying soil testing center details and a navigation button.",
+      "mode": "light"
+    }
+  },
+  "src/pages/KisanNews/sections/NewsAndInnovations.tsx": {
+    "hash": "871817cd21f9bcc54acafb769cdc5e3f",
+    "profile": {
+      "component_name": "NewsAndInnovations",
+      "section_title": "News And Innovations",
+      "main_heading_text": "Kisan News & Innovations",
+      "section_type": "blog_posts",
+      "blocks": [
+        "post_card",
+        "feature_card"
+      ],
+      "media": [
+        "icons"
+      ],
+      "buttons": [
+        "Try Again"
+      ],
+      "summary": "Grid of recent news posts with three feature cards linking to AI chat, weather alerts, and soil health.",
+      "mode": "light"
+    }
+  },
+  "src/pages/KisanNews/sections/TheUnfairAdvantageYourCompetitorsFear.tsx": {
+    "hash": "c00d916166be34e35b10fbcf53ce8d63",
+    "profile": {
+      "component_name": "TheUnfairAdvantageYourCompetitorsFear",
+      "section_title": "The Unfair Advantage Your Competitors Fear",
+      "main_heading_text": "HEAVY RAIN ALERT: Next 48 Hours",
+      "section_type": "hero",
+      "blocks": [
+        "chart",
+        "stats_grid"
+      ],
+      "media": [
+        "icons",
+        "avatars"
+      ],
+      "buttons": [
+        "Share via WhatsApp",
+        "View Full Forecast"
+      ],
+      "summary": "Hero section with urgent rain alert, description, CTA buttons, and a floating chart card showing rainfall probability and key stats.",
+      "mode": "dark"
+    }
+  },
+  "src/templates/SinglePostTemplate/sections/SinglePostTemplateSection.tsx": {
+    "hash": "6467825d902a3375a2c626a71bbd5c97",
+    "profile": {
+      "component_name": "SinglePostTemplateSection",
+      "section_title": "Single Post Template",
+      "main_heading_text": "Recommended for You",
+      "section_type": "blog_posts",
+      "blocks": [
+        "post_card",
+        "author_card"
+      ],
+      "media": [
+        "image",
+        "avatar",
+        "icon"
+      ],
+      "buttons": [
+        "Read Full Article",
+        "View All Kisan News",
+        "Return to Portal Home",
+        "Expert Profile"
+      ],
+      "summary": "Article page with author info, featured image, and related post cards grid.",
+      "mode": "light"
+    }
+  },
+  "src/reusable_sections/Header.tsx": {
+    "hash": "f9887aabdacf6dcb7c31e4034ae25f5a",
+    "profile": {
+      "component_name": "Header",
+      "section_title": "Header",
+      "main_heading_text": "\u0939\u093f\u0928\u094d\u0926\u0940 | ENGLISH",
+      "section_type": "nav_menu",
+      "blocks": [
+        "navigation_menu",
+        "mobile_menu"
+      ],
+      "media": [
+        "logo",
+        "icons"
+      ],
+      "buttons": [
+        "KISAN AI",
+        "\u0915\u0943\u0937\u093f \u0938\u0939\u093e\u092f\u0915 (KISAN AI)"
+      ],
+      "summary": "Responsive header with logo, navigation links, language badge, and AI action button.",
+      "mode": "light"
+    }
+  },
+  "src/reusable_sections/Footer.tsx": {
+    "hash": "685c397df5947458fa231b10cfd1a639",
+    "profile": {
+      "component_name": "SystemTerminal",
+      "section_title": "System Terminal",
+      "main_heading_text": "Emergency Helplines",
+      "section_type": "footer",
+      "blocks": [
+        "link_list"
+      ],
+      "media": [
+        "logo"
+      ],
+      "buttons": [],
+      "summary": "Footer with logo and columns of emergency helplines, digital services, social media, and site policies links.",
+      "mode": "dark"
+    }
+  }
+}
