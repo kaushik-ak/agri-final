@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import DigitalKisanPortalPage from "./pages/DigitalKisanPortal/DigitalKisanPortal"
 import SoilHealthPage from "./pages/SoilHealth/SoilHealth"
 import KisanNewsPage from "./pages/KisanNews/KisanNews"
-import SinglePostTemplatePage from "./pages/SinglePostTemplate.tsx";
+import SinglePostTemplatePage from "./pages/SinglePostTemplate";
  
 function AppRoutes() {
     const location = useLocation();
