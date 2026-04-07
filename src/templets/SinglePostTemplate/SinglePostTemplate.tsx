@@ -9,4 +9,6 @@ const SinglePostTemplate = () => {
   );
 };
 
-export default SinglePostTemplate;
+export default function SinglePostTemplatePage() {
+  return <div>Post Page</div>;
+}
