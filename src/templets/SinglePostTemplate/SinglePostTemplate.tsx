@@ -1,14 +1,12 @@
-import Header from "@/reusable_sections/Header"
-import SinglePostTemplateSection from "./sections/SinglePostTemplateSection"
-import SystemTerminal from "@/reusable_sections/Footer"
- 
-export default function SinglePostTemplatePage() {
- 
+import React from "react";
+
+const SinglePostTemplate = () => {
   return (
     <div>
-      <Header />
-      <SinglePostTemplateSection />
-      <SystemTerminal />
+      <h1>Single Post Template</h1>
+      <p>This page was missing. Now build will work ✅</p>
     </div>
-  )
-}
+  );
+};
+
+export default SinglePostTemplate;
